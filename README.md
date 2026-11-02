@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Djo_Dev! 👋
 
-<!--
-**Djodev16/Djodev16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter & Dart Developer 🚀
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a mobile application developer passionate about building modern, useful, and user-friendly applications.
+
+## 💻 Technical Skills
+
+- Flutter
+- Dart
+- Firebase
+- Cloudinary
+- Git & GitHub
+
+## 🚀 Featured Project
+
+### CoachLink 💪
+
+A mobile application connecting fitness coaches and trainees.
+
+**Technologies:** Flutter & Dart
+
+[View CoachLink Repository](https://github.com/Djodev16/CoachLink)
+
+## 🎯 What I'm Working On
+
+- Developing mobile applications with Flutter.
+- Improving my Dart programming skills.
+- Exploring modern mobile app development.
+
+## 📫 Contact
+
+Feel free to explore my repositories and projects!
+
+---
+
+⭐ Thanks for visiting my profile!
