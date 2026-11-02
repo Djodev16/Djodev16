@@ -18,7 +18,7 @@ I'm a mobile application developer passionate about building modern, useful, and
 
 ### CoachLink 💪
 
-A mobile application connecting fitness coaches and trainees.
+A mobile application connecting  coaches and trainees.
 
 **Technologies:** Flutter & Dart
 
